@@ -18,3 +18,6 @@ print(type(True))
 # None type
 print(None)
 print(type(None))
+
+
+
