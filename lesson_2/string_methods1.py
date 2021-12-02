@@ -29,4 +29,3 @@ asd
 """
 
 print(sample_string3)
-print(f
